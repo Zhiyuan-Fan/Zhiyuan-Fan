@@ -10,7 +10,7 @@
 - 👯 I love programming and artificial intelligence
 - 🤔 I’m currently learning Chisel, I want to design my own chip!
 - 💬 I will become a compound talent in the cross field of artificial intelligence and chip！
-- 😄 Just like powerful parallel computing, shouldn't people do what they like efficiently when they are young? Even if they're busy！
+- 😄 Just like powerful parallel computing, shouldn't people do what they love efficiently when they are young? Even if they're busy！
 
 
 
