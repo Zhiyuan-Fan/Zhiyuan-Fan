@@ -1,4 +1,5 @@
 ### Hi there 👋  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Elvisambition)](https://github.com/ryo-ma/github-profile-trophy)
 &ensp;&ensp;My Chinese name is Zhiyuan Fan. I was born on February 20, 2002. A unique and wonderful day！  
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Elvisambition)](https://github.com/anuraghazra/github-readme-stats)    
