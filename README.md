@@ -1,5 +1,18 @@
 ### Hi there 👋
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Elvisambition)](https://github.com/anuraghazra/github-readme-stats)
+    My Chinese name is Zhiyuan Fan,
+    I was born on February 20, 2002,
+    A unique and wonderful day！
+- ⚡ Huawei Certified ICT Professional (AI)
+- 🔭 I’m currently studying on Tianjin University
+- 🌱 My major is microelectronics
+- 📫In addition, I also know a little about finance and had relevant internship experience in freshman year
+- 👯 I love programming and artificial intelligence
+- 🤔 I’m currently learning Chisel,I want to design my own chip!
+- 💬 I will become a compound talent in the cross field of artificial intelligence and chip！
+- 😄 Just like powerful parallel computing, shouldn't people do what they like efficiently when they are young? Even if they're busy！
+
+
 
 
 <!--
