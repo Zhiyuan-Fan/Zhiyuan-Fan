@@ -8,7 +8,7 @@
 - 🌱 My major is microelectronics
 - 📫In addition, I also know a little about finance and had relevant internship experience in freshman year
 - 👯 I love programming and artificial intelligence
-- 🤔 I’m currently learning Chisel,I want to design my own chip!
+- 🤔 I’m currently learning Chisel, I want to design my own chip!
 - 💬 I will become a compound talent in the cross field of artificial intelligence and chip！
 - 😄 Just like powerful parallel computing, shouldn't people do what they like efficiently when they are young? Even if they're busy！
 
