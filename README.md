@@ -6,7 +6,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Elvisambition)](https://github.com/anuraghazra/github-readme-stats)   
 
 - ⚡ Huawei Certified ICT Professional (artificial intelligence)
-- 🔭 I’m currently studying on Tianjin University
+- 🔭 I’m currently studying in Tianjin University
 - 🌱 My major is microelectronics
 - 👯 I love programming and artificial intelligence
 - 🤔 I’m currently learning Chisel, I want to design my own chip!
