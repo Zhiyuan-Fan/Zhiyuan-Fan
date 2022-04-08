@@ -2,7 +2,7 @@
 &ensp;&ensp;My Chinese name is Zhiyuan Fan. I was born on February 20, 2002. A unique and wonderful day！  
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Elvisambition)](https://github.com/anuraghazra/github-readme-stats)    
-- ⚡ Huawei Certified ICT Professional (AI)
+- ⚡ Huawei Certified ICT Professional (artificial intelligence)
 - 🔭 I’m currently studying on Tianjin University
 - 🌱 My major is microelectronics
 - 👯 I love programming and artificial intelligence
