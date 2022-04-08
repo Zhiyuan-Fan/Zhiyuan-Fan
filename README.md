@@ -10,7 +10,6 @@
 - 💬 I will become a compound talent in the cross field of artificial intelligence and chip！
 - 😄 Just like powerful parallel computing, shouldn't people do what they love efficiently when they are young? Even if they're busy！
 - 📫 How to reach me: kiss_the_dream@icloud.com  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elvisambition)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
