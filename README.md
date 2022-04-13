@@ -1,6 +1,4 @@
 ### Hi there 👋    
-
-
 ### &ensp;&ensp;My Chinese name is Zhiyuan Fan. I was born on February 20, 2002. A unique and wonderful day！  
 [![trophy](https://github-profile-trophy.vercel.app/?username=Elvisambition)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -14,12 +12,6 @@
 - 💬 I will become a compound talent in the cross field of artificial intelligence and chip！
 - 😄 Just like powerful parallel computing, shouldn't people do what they love efficiently when they are young? Even if they're busy！
 - 📫 How to reach me: kiss_the_dream@icloud.com    
-
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Elvisambition)](https://git.io/streak-stats)
-
-
-
 
 <!--
 **Elvisambition/Elvisambition** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
