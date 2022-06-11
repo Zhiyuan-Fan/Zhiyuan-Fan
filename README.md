@@ -6,8 +6,8 @@
 
 - ⚡ Huawei Certified ICT Professional (artificial intelligence)
 - 🔭 I’m currently studying in Tianjin University
-- 🌱 My major is microelectronics
-- 👯 I love programming and artificial intelligence
+- 🌱 My major is integrated circuit
+- 👯 I love programming and artificial intelligence, especially natural language processing and multimodality!
 - 🤔 I’m currently learning Chisel, I want to design my own chip!
 - 💬 I will become a compound talent in the cross field of artificial intelligence and chip！
 - 😄 Just like powerful parallel computing, shouldn't people do what they love efficiently when they are young? Even if they're busy！
