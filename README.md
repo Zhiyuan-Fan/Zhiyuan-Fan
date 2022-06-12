@@ -8,7 +8,7 @@
 - 🔭 I’m currently studying in Tianjin University
 - 🌱 My major is integrated circuit
 - 👯 I love programming and artificial intelligence, especially natural language processing and multimodality!
-- 🤔 I’m currently learning Chisel, I want to design my own chip!
+- 🤔 The journey of mankind is the sea of stars and artificial general intelligence!
 - 💬 I will become a compound talent in the cross field of artificial intelligence and chip！
 - 😄 Just like powerful parallel computing, shouldn't people do what they love efficiently when they are young? Even if they're busy！
 - 📫 How to reach me: kiss_the_dream@icloud.com    
