@@ -4,8 +4,8 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Elvisambition)](https://github.com/anuraghazra/github-readme-stats)   
 
-- ⚡ Huawei Certified ICT Professional (artificial intelligence)
-- 🔭 PaddlePaddle Developer Expert (artificial intelligence)
+- ⚡ Huawei HCIP engineer (artificial intelligence)
+- 🔭 BaiDu PaddlePaddle Developer Expert [PPDE] (artificial intelligence)
 - 🌱 My major is integrated circuit
 - 👯 I love programming and artificial intelligence, especially natural language processing and multimodality!
 - 🤔 The journey of mankind is the sea of stars and artificial general intelligence!
