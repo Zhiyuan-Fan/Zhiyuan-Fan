@@ -2,7 +2,7 @@
 ### &ensp;&ensp;My Chinese name is Zhiyuan Fan. I was born on February 20, 2002. A unique and wonderful day！  
 [![trophy](https://github-profile-trophy.vercel.app/?username=Elvisambition)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Elvisambition)](https://github.com/anuraghazra/github-readme-stats)   
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elvisambition)](https://github.com/anuraghazra/github-readme-stats)  
 
 - ⚡ Huawei HCIP engineer (artificial intelligence)
 - 🔭 Baidu PaddlePaddle Developer Expert PPDE (artificial intelligence)
